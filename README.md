@@ -556,7 +556,7 @@ Planned extensions for this lab:
 
 **Toan Xuan Nguyen**
 
-*IT Support L2 @ DXC Technology | Systems Administration | Microsoft Technologies*
+*IT Support L2 (Work Placement) @ DXC Technology | Systems Administration | Microsoft Technologies*
 📍 Adelaide, South Australia
 
 Currently developing hands-on skills in:
